@@ -1,11 +1,15 @@
-.venv/
-__pycache__/
-*.pyc
-*.egg-info/
-dist/
-build/
-.pytest_cache/
+# Environment files
 .env
-.env.local
-.env*.local
-*.egg-info
+dev.env
+
+# OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Diagnostic scripts and binary files
+*.sh
+*.swift
+*.py
+*.s
