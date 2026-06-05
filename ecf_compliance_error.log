@@ -1,0 +1,10 @@
+[Vercel Web Analytics] Failed to load script from /_vercel/insights/script.js.
+Be sure to enable Web Analytics for your project and deploy again.
+
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://ecfiler-production.up.railway.app/api/history. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 404.
+
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://ecfiler-production.up.railway.app/api/file/stream. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 404.
+
+TypeError: d.slice is not a function
+    NextJS 10 (255-38b49df12a94ee57.js:1:74976)
+App error boundary caught: TypeError: d.slice is not a function
