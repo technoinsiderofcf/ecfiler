@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "ecfiler/api/app.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "ecfiler/api/app.py"
+    }
+  ]
+}
