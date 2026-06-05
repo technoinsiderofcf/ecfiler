@@ -13,3 +13,7 @@ dev.env
 *.swift
 *.py
 *.s
+
+# Python cache folders
+__pycache__/
+*.pyc
